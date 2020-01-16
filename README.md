@@ -1,3 +1,1 @@
-## Apache Spark notes & exercices
-
-Apache Spark (PySpark API) notes and exercices
+Apache Spark (PySpark API) notes and exercises
